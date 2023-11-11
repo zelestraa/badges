@@ -38,7 +38,7 @@
 
 Support Me on KoFi:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/izzul)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F2R1THN)
 
 ## Languages and Tools
 
